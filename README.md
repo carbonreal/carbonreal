@@ -2,7 +2,7 @@
 
 **A Disruptive Economy Where Nature Wins**
 
-[![Carbon Real Logo](https://carbonrealprod.blob.core.windows.net/carbonreal/static/web/img/brand-color.webp)](https://carbonreal.com)
+[![Carbon Real Logo](https://carbonrealprod.blob.core.windows.net/carbonreal/static/intranet/images/_logo.png)](https://carbonreal.com)
 
 ## About Us
 
